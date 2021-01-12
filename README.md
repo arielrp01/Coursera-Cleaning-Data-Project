@@ -14,7 +14,7 @@ UCI HAR Dataset | https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2
 
 Project Summary | http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-##run_analysis.R 
+## run_analysis.R 
 
 - Merges the training and the test sets to create one data set.
 - Extracts only the measurements on the mean and standard deviation for each measurement.
