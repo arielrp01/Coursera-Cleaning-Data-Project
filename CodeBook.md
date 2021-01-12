@@ -114,28 +114,28 @@ NOTE: '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 The following variable name modifications have been made:
 
-f        |  Frequency
-t        |  Time
-std      |  StandardDeviation
-mean     |  Mean
-tbody    |  TimeBody
-Acc   	 |  Accelerometer
-BodyBody |  Body
-Gyro     |  Gyroscope
-Mag      |  Magnitude
-angle    |  Angle
-gravity  |  Gravity
+- f        =  Frequency
+- t        =  Time
+- std      =  StandardDeviation
+- mean     =  Mean
+- tbody    =  TimeBody
+- Acc   	 =  Accelerometer
+- BodyBody =  Body
+- Gyro     =  Gyroscope
+- Mag      =  Magnitude
+- angle    =  Angle
+- gravity  =  Gravity
 
 ## Activity Labels
 
 Descriptions of the subject's actions while in the test environment. See also activity_labels.txt in the UCI HAR Dataset.
 
-WALKING (code 1): Subject walking 
-WALKING_UPSTAIRS (code 2): Subject walking upstairs
-WALKING_DOWNSTAIRS (code 3): Subject walking downstairs
-SITTING (code 4): Subject sitting
-STANDING (code 5): Subject standing 
-LAYING (code 6): Subject laying down
+- WALKING (code 1): Subject walking 
+- WALKING_UPSTAIRS (code 2): Subject walking upstairs
+- WALKING_DOWNSTAIRS (code 3): Subject walking downstairs
+- SITTING (code 4): Subject sitting
+- STANDING (code 5): Subject standing 
+- LAYING (code 6): Subject laying down
 
 ## Additional Information
 
